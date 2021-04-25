@@ -2,7 +2,8 @@
 
 ## 🔖 Outline
 
-To be added
+The aim of this chapter to provide different case studies which provide more ideas on the process of building NLP applications from scratch.
+This helps more in a leadership role to understand the fundamental challenges with NLP.
 
 
 ## 🗒️ Notebooks
