@@ -2,18 +2,18 @@
 
 ## 🔖 Outline
 
-To be added
-
+The aim of this chapter is to provide different case studies which will help to get a better insight into the process of building NLP applications from scratch. This helps those in a leadership role to better understand the fundamental challenges with NLP.
 
 ## 🗒️ Notebooks
 
-Set of notebooks associated with the chapter. 
+Set of notebooks associated with the chapter: 
 
 1. **[Elastic Search](https://github.com/practical-nlp/practical-nlp/blob/master/Ch7/01_ElasticSearch.ipynb)**: Here we demonstrate on the CMU book summaries dataset how to use Elastic Search to index and search through data.
 
 2. **[Topic Modelling](https://github.com/practical-nlp/practical-nlp/blob/master/Ch7/02_TopicModelling.ipynb)**: Here we demonstrate common Topic Modelling techniques such as LDA, LSA using gensim. 
 
-3. **[Text Summarization](http://localhost:8888/notebooks/Ch7/03_TextSummarization.ipynb)**: Here we demonstrate extractive and abstractive text summarization using various packages such as gensim, summy, etc and pre-trained models such as BERT.
+3. **[Text Summarization](http://localhost:8888/notebooks/Ch7/03_TextSummarization.ipynb)**: Here we demonstrate extractive and abstractive text summarization using various packages such as gensim, summy, etc., and pre-trained models such as BERT.
+ and pre-trained models such as BERT.
 
 4. **[Recommender Systems](https://github.com/practical-nlp/practical-nlp/blob/master/Ch7/04_RecommenderSystems.ipynb)**: Here we demonstrate a simple Recommender System using Doc2Vec.
 
