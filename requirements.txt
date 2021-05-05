@@ -1,8 +1,8 @@
-﻿#  Tested on python 3.5/3.6/3.7 on linux and windows
+#  Tested on python 3.5/3.6/3.7 on linux and windows
 #  Tested on ubuntu 18.04 LTS
 #  Tested on Windows 10 20H2 Update 
 #  Most errors while installing can be fixed by simply
-#  Tested on pip WARNING: You are using pip version 20.1.1
+#  Tested on pip 20.1.1
 #  upgrading the pre-bundled pip.
 #  ( CAUTION : Please be careful while upgrading pip )
 #  Virtual Environments are recommended
