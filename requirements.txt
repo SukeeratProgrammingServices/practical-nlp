@@ -1,12 +1,12 @@
-#  Tested on python 3.5/3.6/3.7 on linux and windows
-#  Tested on ubuntu 18.04 LTS
+#  Tested on Python 3.5/3.6/3.7 on Linux and Windows
+#  Tested on Ubuntu 18.04 LTS
 #  Tested on Windows 10 20H2 Update 
 #  Most errors while installing can be fixed by simply
-#  Tested on pip 20.1.1
 #  upgrading the pre-bundled pip.
-#  ( CAUTION : Please be careful while upgrading pip )
+#  Tested on pip version 20.1.1
+#  CAUTION : Please be careful while upgrading pip
 #  Virtual Environments are recommended
- 
+
 absl-py==0.9.0
 astor==0.8.1
 astroid==2.0.4
