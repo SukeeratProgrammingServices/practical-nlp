@@ -1,4 +1,13 @@
-﻿absl-py==0.9.0
+#  Tested on Python 3.5/3.6/3.7 on Linux and Windows
+#  Tested on Ubuntu 18.04 LTS
+#  Tested on Windows 10 20H2 Update 
+#  Most errors while installing can be fixed by simply
+#  upgrading the pre-bundled pip.
+#  Tested on pip version 20.1.1
+#  CAUTION : Please be careful while upgrading pip
+#  Virtual Environments are recommended
+
+absl-py==0.9.0
 astor==0.8.1
 astroid==2.0.4
 astunparse==1.6.3
@@ -95,7 +104,7 @@ nvidia-ml-py3==7.352.0
 oauthlib==3.1.0
 opt-einsum==3.2.1
 packaging==20.4
-pandas==1.0.5
+pandas==1.0.5              # Requires Python 3.6.1
 pandocfilters==1.4.2
 parso==0.7.0
 pexpect==4.8.0
@@ -112,7 +121,7 @@ pyasn1-modules==0.2.8
 pybind11==2.5.0
 pycorenlp==0.3.0
 pycountry==19.8.18
-pyemd==0.5.1
+pyemd==0.5.1               # Requires Python 3.7.1 
 Pygments==2.6.1
 pylint==2.1.1
 pyparsing==2.4.7
@@ -161,9 +170,9 @@ threadpoolctl==2.1.0
 tifffile==2020.6.3
 tokenizers==0.7.0
 toolz==0.10.0
-torch==1.5.1
-torchvision==0.6.1
-tornado==6.0.4
+torch==1.5.1        # Assorted wheel links , if stuff breaks  https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.6.1  # Assorted wheel links , if stuff breaks  https://download.pytorch.org/whl/torch_stable.html
+tornado==6.1
 tqdm==4.46.1
 traitlets==4.3.3
 transformers==2.11.0
